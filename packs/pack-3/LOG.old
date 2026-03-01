@@ -1,0 +1,7 @@
+2026/03/01-13:42:40.815 30c8 Recovering log #383
+2026/03/01-13:42:40.827 30c8 Delete type=0 #383
+2026/03/01-13:42:40.827 30c8 Delete type=3 #381
+2026/03/01-13:43:38.448 3d64 Level-0 table #388: started
+2026/03/01-13:43:38.448 3d64 Level-0 table #388: 0 bytes OK
+2026/03/01-13:43:38.454 3d64 Delete type=0 #386
+2026/03/01-13:43:38.460 3d64 Manual compaction at level-0 from '!folders!0uFCjs5gYeVtl38i' @ 72057594037927935 : 1 .. '!items.effects!zSlV0O2rQMdoq6pB.U3so0zDcVt4sIBRz' @ 0 : 0; will stop at (end)
